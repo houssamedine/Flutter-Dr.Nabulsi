@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "711397604549",
+    "project_id": "appwebdb-b757a",
+    "storage_bucket": "appwebdb-b757a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711397604549:android:481191019925d61b1184ac",
+        "android_client_info": {
+          "package_name": "com.houssam.app_web"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711397604549-28ntilpdid6ouv92t8jceh9a8hmf72ja.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.houssam.app_web",
+            "certificate_hash": "a90a63e3084acb2de403b775ef38069d137b5c04"
+          }
+        },
+        {
+          "client_id": "711397604549-7889t0r9sp4o9dj5uaeasgck8bf8sacd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7dYejSN_rvwgjprDFEuYwjw0j6lt7cDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711397604549-7889t0r9sp4o9dj5uaeasgck8bf8sacd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
